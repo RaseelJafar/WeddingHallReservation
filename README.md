@@ -5,7 +5,7 @@
 ## 👥 Team Members
 
 | Name | Student ID |
-|------|-----------|------|
+|------|-----------|
 | Basmala Abu Hakema | 1220184 |
 | Malak Milhem | 1220031 |
 | Raseel Jafar | 1220724 |

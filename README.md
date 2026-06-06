@@ -1,8 +1,8 @@
-# 💍 Wedding Hall Reservation System
+# Wedding Hall Reservation System
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | Name | Student ID |
 |------|-----------|
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository documents the full software engineering lifecycle for a **Wedding Hall Reservation System** — a secure, web-based platform that enables customers to browse, book, and manage wedding hall reservations online. The system supports multiple user roles including guests, registered customers, hall managers, venue staff, administrators, customer support agents, and a finance manager.
 
@@ -22,7 +22,7 @@ The project is developed by **Group 6 (Developers)** serving **Group 5 (Customer
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 /
@@ -36,7 +36,7 @@ The project is developed by **Group 6 (Developers)** serving **Group 5 (Customer
 
 ---
 
-## 📂 Phase Descriptions
+## Phase Descriptions
 
 ### 🔹 Phase 0 – Initiation: Group Formation & Project Planning
 
